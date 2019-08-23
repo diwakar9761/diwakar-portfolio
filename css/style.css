@@ -506,7 +506,7 @@ span, a {
 
 .logo {
   padding: 15px 0;
-  width: 100px;
+  width: 200px;
   font-size: 20px;
   font-weight: 700;
   font-family: 'Comfortaa', cursive;
@@ -640,11 +640,11 @@ span, a {
   color: #fff;
 }
 .hero .owl-theme .owl-dots {
-  text-align: right;
+  text-align: left;
   margin-top: 30px !important;
 }
 .hero .owl-theme .owl-dots .owl-dot span {
-  height: 2px;
+  height: 3px;
   width: 30px;
   border-radius: 0;
 }

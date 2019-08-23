@@ -95,9 +95,9 @@ $(function() {
     // Hero owlCarousel
     $('.carousel-single .owl-carousel').owlCarousel({
         items: 1,
-        loop: true,
+        loop: false,
         margin: 10,
-        mouseDrag: false,
+        mouseDrag: true,
         autoplay: false,
         smartSpeed: 500
     });
